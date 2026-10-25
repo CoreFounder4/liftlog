@@ -1,0 +1,3 @@
+liftlog-sicherung-*.json
+*.json.bak
+.claude/settings.local.json
