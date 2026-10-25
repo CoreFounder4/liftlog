@@ -4,7 +4,7 @@
     {
       "name": "liftlog",
       "runtimeExecutable": "npx",
-      "runtimeArgs": ["--yes", "serve", "-l", "8000", "--no-clipboard"],
+      "runtimeArgs": ["--yes", "live-server", "--port=8000", "--host=0.0.0.0", "--no-browser", "--ignore=.git,.claude"],
       "port": 8000
     }
   ]
